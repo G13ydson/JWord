@@ -1,0 +1,8 @@
+7
+arvore;arvore.png
+bola;bola.png
+cachorro;cachorro.png
+carro;carro.png
+casa;casa.png
+gato;gato.png
+maca;maca.png

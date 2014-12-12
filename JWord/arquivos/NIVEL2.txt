@@ -1,0 +1,6 @@
+5
+bola;bola.jpg
+abacate;abacate.jpg
+dado;dado.jpg
+cenoura;cenoura.jpg
+casa;casa.jpg

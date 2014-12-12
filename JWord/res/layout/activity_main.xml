@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:weightSum="1" android:gravity="center">
+	<LinearLayout android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:gravity="center_horizontal">
+		<Button android:text="Jogar" android:id="@+id/bt_jogar" android:layout_height="wrap_content" android:layout_width="90dp"></Button>
+		<Button android:text="Ranking" android:id="@+id/bt_ranking" android:layout_height="wrap_content" android:layout_width="90dp"></Button>
+		<Button android:text="Ajuda" android:id="@+id/bt_ajuda" android:layout_height="wrap_content" android:layout_width="90dp"></Button>
+		<Button android:text="Sair" android:id="@+id/bt_sair" android:layout_height="wrap_content" android:layout_width="90dp"></Button>
+	</LinearLayout>
+</LinearLayout>
